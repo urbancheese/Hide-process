@@ -109,5 +109,5 @@ module_init(hideproc_init);
 module_exit(hideproc_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Urbancheese");
 MODULE_DESCRIPTION("Hides a specified process from /proc");
